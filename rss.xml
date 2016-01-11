@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ScottMosesMurray]]></title>
+        <description><![CDATA[ScottMosesMurray]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 19:08:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Inside]]></title>
+            <description><![CDATA[<article><h1>The Inside</h1><p>Let's see How This Works</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac120801d7532007de68a41228d781d6fbb17419.jpg"></article>]]></description>
+            <link>https://www.dropbox.com/home?preview=Buffalo-clouds+over+factory.JPG</link>
+            <guid isPermaLink="false">fa688e50-98f2-4d68-bfc1-39547dd8ac04</guid>
+            <pubDate>Mon, 11 Jan 2016 19:08:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
